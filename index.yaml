@@ -3,7 +3,17 @@ entries:
   first-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-09T17:44:54.851456+03:00"
+    created: "2025-03-09T18:26:26.397781+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 67323e9728b2a76bf698cfcac4a324a87c0c73ef784919db83fb78ad47424fc1
+    name: first-app
+    type: application
+    urls:
+    - https://kulerock.github.io/helm-demo-app/first-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-09T18:26:26.396932+03:00"
     description: A Helm chart for Kubernetes
     digest: fcc530fc867eced659471a7faff5664f54f1ff83cb2dbadb8a7d8b0ee40126b0
     name: first-app
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://kulerock.github.io/helm-demo-app/first-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-09T17:44:54.849647+03:00"
+generated: "2025-03-09T18:26:26.395558+03:00"
